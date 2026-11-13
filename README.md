@@ -1,6 +1,6 @@
-# 🧑‍💻BBM418 Computer Vision
+# 🧑‍💻Computer Vision
 
-My programming assignments for BBM418 / AIN433 Fundamentals of Computer Vision. Both notebooks were run on Colab. The datasets are not included.
+My computer vision assignments. Both notebooks were run on Colab. The datasets are not included.
 
 ## PA1 - Traffic Sign Detection
 
